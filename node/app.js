@@ -5,6 +5,7 @@ const port = 3000;
 
 const config = {
   host: "db",
+  port: 3306,
   database: "nodedb",
   user: "root",
   password: "senha",
